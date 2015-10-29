@@ -47,7 +47,7 @@
 	<!-- SET Open Cashdrawer (Default=ENABLED) -->
 	<button key="button.opendrawer" image="img.cashdrawer" template="Printer.OpenDrawer"/>
         <!-- Open posapps settings / configuration screen (Default=ENABLED) -->
-	<button key="button.posapps" image="img.posapps" code="script.posapps" />
+	<!--button key="button.posapps" image="img.posapps" code="script.posapps" /-->
         
 <!-- END Sales Ticket Button Bar - Show icons -->
 
